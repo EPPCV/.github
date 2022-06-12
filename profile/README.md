@@ -10,12 +10,12 @@
 Datetime hashed by master password
 password hashed by hashed datetime
 
-## Webová aplikace
+## Web App
    - pyscript
 ## Extension
    - pyscript ?
    - HTML, CSS, JS
-## Databáze
+## Database
    - username, hashed datetime, hashed master password, hashed[[non hashed]URL, username, password]
    - technologie: MSSQL
 ## API
